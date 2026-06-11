@@ -1,0 +1,186 @@
+{
+  "ER_BIO_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "ER_CAM_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "ER_PHA_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "ER_PRS_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "ER_TIP_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "ER_UCD_F": {
+    "rows": 4935,
+    "shards": 13
+  },
+  "IR_BEN_R": {
+    "rows": 1000,
+    "shards": 1
+  },
+  "IR_IMB_R": {
+    "rows": 1000,
+    "shards": 1
+  },
+  "KI_CCI_R": {
+    "rows": 1000,
+    "shards": 1
+  },
+  "KI_ECD_R": {
+    "rows": 1000,
+    "shards": 1
+  },
+  "T_HADaaA": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaB": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaC": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaD": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaDMPA": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaDMPP": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaMED": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaMEDATU": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_HADaaMEDCHL": {
+    "rows": 4948,
+    "shards": 13
+  },
+  "T_MCOaaA": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaB": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaC": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaCSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaD": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaDMIP": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaFBSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaFHSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaFLSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaFMSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaFPSTC": {
+    "rows": 5075,
+    "shards": 13
+  },
+  "T_MCOaaMED": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaMEDATU": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaMEDTHROMBO": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_MCOaaUM": {
+    "rows": 5058,
+    "shards": 13
+  },
+  "T_SSRaaB": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaC": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaCCAM": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaCSARR": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaCSTC": {
+    "rows": 4995,
+    "shards": 13
+  },
+  "T_SSRaaD": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaFLSTC": {
+    "rows": 4995,
+    "shards": 13
+  },
+  "T_SSRaaFMSTC": {
+    "rows": 4995,
+    "shards": 13
+  },
+  "T_SSRaaMED": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "T_SSRaaMEDATU": {
+    "rows": 4897,
+    "shards": 13
+  },
+  "IR_PHA_R": {
+    "rows": "from nomenclature",
+    "shards": 1
+  },
+  "IR_BEN_R_uniq": {
+    "rows": 1000,
+    "shards": 1
+  }
+}
